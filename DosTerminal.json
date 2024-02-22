@@ -40,50 +40,50 @@
             "#16C60C"
         ],
         "BACKGROUND_PRIMARY": [
-            "#000000"
+            "#1e1e2e"
         ],
         "BACKGROUND_SECONDARY": [
-            "#000000"
+            "#1e1e2e"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#000000"
+            "#1e1e2e"
         ],
 		"REDESIGN_BUTTON_SECONDARY_BORDER": [
 		"#13A10E"
 		],
         "BACKGROUND_TERTIARY": [
-            "#000000"
+            "#1e1e2e"
         ],
         "BACKGROUND_ACCENT": [
-            "#000000"
+            "#1e1e2e"
         ],
         "BACKGROUND_FLOATING": [
-            "#000000"
+            "#1e1e2e"
         ],
         "BACKGROUND_MOBILE_PRIMARY": [
-            "#000000"
+            "#1e1e2e"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#000000"
+            "#1e1e2e"
         ],
         "BACKGROUND_NESTED_FLOATING": [
-            "#000000"
+            "#1e1e2e"
         ],
        
         "BACKGROUND_MESSAGE_HOVER": [
-            "#16C60C"
+            "#1e1e2e"
         ],
         "BACKGROUND_MODIFIER_HOVER": [
-            "#000000"
+            "#1e1e2e"
         ],
         "BACKGROUND_MODIFIER_ACTIVE": [
-            "#000000"
+            "#1e1e2e"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "#000000"
+            "#1e1e2e"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "#000000"
+            "#1e1e2e"
         ],
 		
 		"BUTTON_OUTLINE_BRAND_BACKGROUND":[
@@ -190,24 +190,24 @@
 		   
     },
 	"fonts":{
-  "ABCGintoNord-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "ggsans-Bold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "ggsans-BoldItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "ggsans-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "ggsans-ExtraBoldItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "ggsans-Medium": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "ggsans-MediumItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "ggsans-Normal": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "ggsans-NormalItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "ggsans-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "ggsans-SemiboldItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "NotoSans-Bold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "NotoSans-ExtraBold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "NotoSans-Medium": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "NotoSans-Normal": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "NotoSans-NormalItalic": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "NotoSans-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf",
-  "SourceCodePro-Semibold": "https://github.com/mysticentity/ThemeStrings/raw/main/DoS.ttf"
+  "ABCGintoNord-ExtraBold": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-Bold": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-BoldItalic": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-ExtraBold": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-ExtraBoldItalic": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-Medium": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-MediumItalic": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-Normal": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-NormalItalic": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-Semibold": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "ggsans-SemiboldItalic": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-Bold": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-ExtraBold": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-Medium": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-Normal": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-NormalItalic": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "NotoSans-Semibold": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf",
+  "SourceCodePro-Semibold": "https://github.com/MopigamesYT/ThemeStrings/raw/main/DoS.ttf"
  },	
 	"Background": {
 		"blur": 0,
