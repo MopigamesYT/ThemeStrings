@@ -135,18 +135,18 @@
             "#16C60C"
         ],
         "CHAT_BACKGROUND": [
-            "#000000"
+            "#1e1e2e"
       ],
 	"CARD_PRIMARY_BG": [
-	    "#000000"
+	    "#1e1e2e"
 	],
 "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
 "#16C60C"
 ],
     "USER_PROFILE_HEADER_OVERFLOW_BACKGROUND": [
-      "#000000",
-      "#000000",
-      "#000000"
+      "#1e1e2e",
+      "#1e1e2e",
+      "#1e1e2e"
 	   ]
     },
     "rawColors": {
@@ -157,13 +157,13 @@
         "PRIMARY_360": "#16C60C",
         "PRIMARY_400": "#16C60C",
 		"PRIMARY_500": "#16C60C",
-		"PRIMARY_560": "#000000",
-        "PRIMARY_600": "#000000",
-        "PRIMARY_630": "#000000",
-		"PRIMARY_645": "#000000",
-        "PRIMARY_660": "#000000",
-        "PRIMARY_700": "#000000",
-        "PRIMARY_800": "#000000",
+		"PRIMARY_560": "#1e1e2e",
+        "PRIMARY_600": "#1e1e2e",
+        "PRIMARY_630": "#1e1e2e",
+		"PRIMARY_645": "#1e1e2e",
+        "PRIMARY_660": "#1e1e2e",
+        "PRIMARY_700": "#1e1e2e",
+        "PRIMARY_800": "#1e1e2e",
         "BRAND_260": "#13A10E",
         "BRAND_360": "#13A10E",
         "BRAND_500": "#16C60C",
@@ -178,14 +178,14 @@
 		"PLUM_3": "#16C60C",
 		"PLUM_6": "#16C60C",
 		"PLUM_10": "#16C60C",
-		"PLUM_11": "#000000",
+		"PLUM_11": "#1e1e2e",
 		"PLUM_15": "#16C60C",
 		"PLUM_17": "#16C60C",
-		"PLUM_19": "#000000",
-		"PLUM_20": "#000000",
+		"PLUM_19": "#1e1e2e",
+		"PLUM_20": "#1e1e2e",
 		"PLUM_26": "#FF00FF",
-		"PLUM_22": "#000000",
-		"PLUM_24": "#000000"
+		"PLUM_22": "#1e1e2e",
+		"PLUM_24": "#1e1e2e"
 		
 		   
     },
